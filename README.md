@@ -1,11 +1,11 @@
 ### Hi 👋
 
 <!--
-**AyieRamle3/ayieramle3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AyieRamle3/AyieRamle3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 Technician & Maintenance
+- 🔭 Alternative Dispute Solution
 - 🌱 Coding & Scripts
 - 👯 Android & iOS
 - 🤔 JS, CSS, HTML, Linux
