@@ -1,6 +1,5 @@
 ### Assalamualaikum, welcome ..
 
-INTRODUCTION
 
 - 👩‍💻 AyieRamle3
 - 🎓 Autodidact
