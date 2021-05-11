@@ -1,4 +1,4 @@
-### Assalamualaikum, Welcome ..
+### Assalamualaikum, welcome ..
 
 - 👩‍💻 AyieRamle3
 - 🎓 Autodidact
