@@ -1,6 +1,7 @@
 ### Assalamualaikum, welcome ..
 
-- Introduction
+Introduction
+
 - 👩‍💻 AyieRamle3
 - 🎓 Autodidact
 - 📋 Technical Writer
@@ -10,5 +11,5 @@
 - 💬 https://www.facebook.com/AyieRamle3
 
 <!--
-**AyieRamle3/AyieRamle3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AyieRamle3/AR3-Project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
