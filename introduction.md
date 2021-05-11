@@ -1,4 +1,4 @@
-- 👩‍💻 @AyieRamle2
+- 👩‍💻 AyieRamle2
 - 🎓 Autodidact
 - 📋 Technical Writer
 - 💼 Alternative Dispute Solution
