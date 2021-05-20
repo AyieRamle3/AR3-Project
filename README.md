@@ -3,9 +3,9 @@
 
 - 👩‍💻 AyieRamle3
 - 🎓 Autodidact
-- 📋 Technical Writer
-- 💼 Alternative Dispute Solution
-- 🏢 Community Support
+- 📋 Data Analyst
+- 💼 Technical Support
+- 🏢 Community Support Services
 - 🏠 Pahang, Malaysia
 - 💬 https://www.facebook.com/AyieRamle3
 
